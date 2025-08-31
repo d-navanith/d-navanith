@@ -32,7 +32,7 @@
   <i>Full-Stack Developer | UI/UX Designer | Cloud Solutions Architect</i>
 </p>
 
-I'm a versatile **Senior Software Engineer** and **UI/UX Designer** with 7+ years of experience building beautiful, intuitive interfaces and scalable backend systems. Currently crafting exceptional user experiences at **Treeloq (Sri Lanka)**, where I bridge the gap between design and development.
+I'm a versatile **Senior Software Engineer** and **UI/UX Designer** with 1+ years of experience building beautiful, intuitive interfaces and scalable backend systems. Currently crafting exceptional user experiences at **Treeloq (Sri Lanka)**, where I bridge the gap between design and development.
 
 - 🌟 **Specialties**: 
   - User-Centered Design & Research
@@ -191,11 +191,8 @@ I'm a versatile **Senior Software Engineer** and **UI/UX Designer** with 7+ year
 
 | Certification | Issuer | Date |
 |---------------|--------|------|
-| **Google UX Design Professional Certificate** | Google | 2023 |
-| **Figma Certified Professional** | Figma | 2023 |
-| **AWS Solutions Architect Professional** | Amazon Web Services | 2023 |
-| **Google Cloud Professional DevOps Engineer** | Google Cloud | 2022 |
-| **Kubernetes Application Developer (CKAD)** | Cloud Native Computing Foundation | 2022 |
+| **Google UX Design Professional Certificate** | Google | 2024 |
+| **Figma Certified Professional** | Figma | 2024 |
 
 </div>
 
