@@ -207,23 +207,6 @@ I'm a versatile **Senior Software Engineer** and **UI/UX Designer** with 1+ year
 
 ---
 
-## 📝 Recent Publications
-
-<div align="center">
-
-1. **[Design Systems at Scale: Lessons from Treeloq](https://navanith.dev/blog/design-systems)**  
-   *Published in UX Collective | 18 min read*
-   
-2. **[Bridging Design and Development with Figma and React](https://navanith.dev/blog/figma-react)**  
-   *Featured in Smashing Magazine | 15 min read*
-   
-3. **[Scaling Microservices with Kubernetes](https://navanith.dev/blog/scaling-microservices)**  
-   *Published in DevOps.com | 15 min read*
-
-</div>
-
----
-
 ## 💬 Let's Connect
 
 <div align="center">
